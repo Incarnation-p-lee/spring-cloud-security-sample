@@ -1,0 +1,14 @@
+server:
+  port: 9000
+
+#security:
+#  oauth2:
+#    client:
+#      client-id: auth-server
+#      client-secret: fake-client-secret
+#      scope: openid
+#      authorized-grant-types: password
+#      registered-redirect-uri: http://localhost:9000/test
+#      authorities:
+
+
